@@ -36,11 +36,21 @@ open 3 terminals:
 
 to play using the sample client make sure the client pygame hidden window has focus
 
-### Details
+## Details
 
 Further information can be found on the final report, that is available (in pdf format) [here](https://github.com/itskikat/ai-sokoban-solver/blob/main/Presentation.pdf).
 
-# Credits
+
+## Authors
+
+[Lucas Sousa](https://github.com/l-sousa/) (nmec 93019)
+
+[Francisca Barros](https://github.com/itskikat/) (nmec 93102)
+
+[Margarida Martins](https://github.com/margaridasmartins) (nmec 93169)
+
+
+## Credits
 
 Thank you [Kenney](https://www.kenney.nl/assets/sokoban) for the sprites! 
 
